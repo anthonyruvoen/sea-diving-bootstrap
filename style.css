@@ -1,2 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
 
+.back-green {
+    background-color: #166064;
+}
+.searchbar {
+    margin-top: -50px;
+    margin-left: 390px!important;
+    z-index: 2;
+    position: absolute;
+}
+.banner {
+    height: 500px;
+}
+.carousel-caption {
+    top:100px;
+    left: 400px;
+}
